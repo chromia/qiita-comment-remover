@@ -13,5 +13,5 @@ Qiitaのまとめのコメントのうち、特定のユーザが作成したも
 
 連絡先
 ------
-メール: chromia[at]outlook.jp ([at]を@に置換してください)
+メール: chromia[at]outlook.jp ([at]を@に置換してください)  
 Github: https://github.com/chromia/qiita-comment-remover/issues
