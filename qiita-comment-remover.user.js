@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        qiita-comment-remover
+// @author      chromia
 // @namespace   chromia
 // @description Qiitaの特定ユーザのコメントを見えなくする
 // @match       https://qiita.com/*/items/*
