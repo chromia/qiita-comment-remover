@@ -56,7 +56,6 @@
 // 本スクリプトのライセンス(修正BSDライセンス, 派生元と同じ)
 //
 // Copyright (c) 2018, chromia
-// All rights reserved.
 //
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted provided that the following conditions are met:
